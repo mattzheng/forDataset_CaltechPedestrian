@@ -31,3 +31,4 @@ matlab官方自带的，需要修改vName、path、fnm。
 上传的代码为遍历，set09文件夹中，V000.vbb-V009.vbb
 需要手动修改一下信息
 
+Matt/2017-5-6/http://blog.csdn.net/sinat_26917383
