@@ -37,7 +37,7 @@ def open_save(file,savepath):
         count += 1  
 
 if __name__=="__main__":  
-    rootdir = "G:\\DeepLearningForTraining\\Pedestrian-detection\\Caltech Pedestrian Detection\\set01"  
+    rootdir = "/.../Caltech Pedestrian Detection\\set01"  
     # walk in the rootdir, take down the .seq filename and filepath  
     for parent, dirnames, filenames in os.walk(rootdir):  
         for filename in filenames:  
