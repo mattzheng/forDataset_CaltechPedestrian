@@ -8,7 +8,7 @@ Caltech Pedestrian Dataset 数据集变现代码,matlab+python
 > box。官网上提供toolbox对这些数据的读写等操作，好吧，我很懒就没仔细看toolbox中的代码（主要是本人的matlab水平很菜），
 
 
-http://img.blog.csdn.net/20150520185535264?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYTIwMDgzMDE2MTAyNTg=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center
+https://github.com/mattzheng/forDataset_CaltechPedestrian/blob/master/20150520185535264.jpg
 
 较多内容参考于：[行人检测——Caltech Pedestrian Dataset 数据集的使用](http://blog.csdn.net/a2008301610258/article/details/45873867)
 
